@@ -1,0 +1,7 @@
+name: cling-torch
+channels:
+  - conda-forge
+dependencies:
+  - xeus-cling=0.8.1
+  - notebook
+  - pytorch-cpu
