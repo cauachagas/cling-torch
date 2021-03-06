@@ -5,4 +5,4 @@ channels:
 dependencies:
   - xeus-cling
   - notebook
-  - python=3.7
+  - python=3
