@@ -63,7 +63,7 @@ Note as opções disponíveis.
 Usando um notebook com um Kernell C++ iremos primeiro baixar os [binários do Libtorch](https://pytorch.org/get-started/locally/) na primeira célula. 
 
 ```c++
-system("/usr/bin/wget https://download.pytorch.org/libtorch/cpu/libtorch-cxx11-abi-shared-with-deps-1.6.0%2Bcpu.zip -O libtorch.zip")
+system("/usr/bin/wget https://download.pytorch.org/libtorch/cpu/libtorch-shared-with-deps-2.9.1%2Bcpu.zip -O libtorch.zip")
 ```
 
 Para facilitar, o arquivo `.zip` será extraído na mesma pasta do notebook.
